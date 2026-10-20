@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+wads/*.wad
+wads/*.WAD
+public/sf2/*.sf2
+test-results/
+playwright-report/
